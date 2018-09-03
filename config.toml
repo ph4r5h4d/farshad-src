@@ -1,0 +1,68 @@
+## Basic Configuration
+
+baseurl = "https://ph4r5h4d.github.io/farshad/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Farshad Nematdoust"
+title = "Farshad Nematdoust"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Farshad Nematdoust"
+intro = "Probably a software developer"
+description = "Now @Snapp. Previously @Zhaket <br/><br/> Laziness award winner <br/> Current kernel version : 0.0.0"
+authorimage = "https://www.gravatar.com/avatar/88ba7b7f36be66152c74baa2a712a892?s=200"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Farshad Nematdoust"
+keywords = "farshad,nematdoust,fullstack,developer"
+
+## Social Accounts
+[params.social]
+github = "ph4r5h4d"
+instagram = "farshadnematdoust"
+#xing = "<username>"
+linkedin = "farshadnematdoust"
+twitter = "ph4r5h4d"
+#facebook = "<username>"
+#google = "<username>"
+#stackoverflow = "<username>"
+email = "farshad@nematdoust.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Farshad Nematdoust. Some Rights Reserved." 
+poweredby = false
+highlightjs = true
+
+## Main Menu
+# [[menu.main]]
+#     name = "blog"
+#     weight = 100
+#     identifier = "blog"
+#     url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+# [[menu.main]]
+#     name = "coderag"
+#     identifier = "coderag"
+#     weight = 300
+#     url = "/coderag/"
