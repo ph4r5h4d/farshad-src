@@ -14,6 +14,6 @@ A dreamer actually, loves to read fantasy and sci-fi books, watches movies and a
 
 Loves learning new technologies and also, prefer group work. 
 
-Former Ninja who has resigned after Bigbang, currently a member of Kuiper belt security team, gaurding galaxy...  
+Former Ninja who has resigned after Bigbang, currently a member of Kuiper belt security team, gaurding solar system...  
 
 
