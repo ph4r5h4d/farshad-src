@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Farshad Nematdoust"
 intro = "Software Engineer on the run"
-description = "Now **[@Leaseweb Global](https://www.leaseweb.com)**."
+description = "Now **[@Leaseweb Global b.v](https://www.leaseweb.com)**."
 formerJob = "Former SE **[@Snapp.ir](https://snapp.ir)**."
 kernel = "Current Kernel Version: **5.3.0-23-generic**"
 authorimage = "https://www.gravatar.com/avatar/88ba7b7f36be66152c74baa2a712a892?s=200"
