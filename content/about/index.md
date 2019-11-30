@@ -10,7 +10,7 @@ title = "About"
 showpagemeta = false
 +++
 
-A dreamer actually, loves to read fantasy and sci-fi books, watches movies and animes, play games and like other normal organisms on earth uses O2 as an input and output CO2.(there are rumors that I feed upon caffeine, it's true)  
+A dreamer actually, loves to read fantasy and sci-fi books, watches movies and animes, play games and like other normal organisms on earth uses O2 as an input and CO2 as an output.(there are rumors that I feed upon caffeine, it's true)  
 
 Loves learning new technologies and also, prefer group work. 
 

@@ -7,7 +7,7 @@ languageCode = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "public/farshad"
 
 author = "Farshad Nematdoust"
 title = "Farshad Nematdoust"
@@ -16,21 +16,23 @@ theme = "hugo-goa"
 
 ## Hugo Built-in Features
 #disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
+googleAnalytics = "UA-153608844-1"
 enableRobotsTXT = true
 
 ## Site Settings
 [params]
 author = "Farshad Nematdoust"
-intro = "Probably a software developer"
-description = "Now @Snapp. Previously @Zhaket <br/><br/> Laziness award winner <br/> Current kernel version : 0.0.0"
+intro = "Software Engineer on the run"
+description = "Now **[@Leaseweb Global](https://www.leaseweb.com)**."
+formerJob = "Former SE **[@Snapp.ir](https://snapp.ir)**."
+kernel = "Current Kernel Version: **5.3.0-23-generic**"
 authorimage = "https://www.gravatar.com/avatar/88ba7b7f36be66152c74baa2a712a892?s=200"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
 description = "Farshad Nematdoust"
-keywords = "farshad,nematdoust,fullstack,developer"
+keywords = "farshad,nematdoust,fullstack,developer,software engineer"
 
 ## Social Accounts
 [params.social]
@@ -46,9 +48,16 @@ email = "farshad@nematdoust.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Farshad Nematdoust. Some Rights Reserved." 
+copyright = "© 2019-2020. Farshad Nematdoust. Some Rights Reserved." 
 poweredby = false
 highlightjs = true
+
+## Main Menu
+# [[menu.main]]
+#     name = "blog"Previously @Zhaket <br/><br/> Laziness award winner <br/> Current kernel version : 0.0.0"
+authorimage = "https://www.gravatar.com/avatar/88ba7b7f36be66152c74baa2a712a892?s=200"
+dateformat = "Jan 2, 2006"
+
 
 ## Main Menu
 # [[menu.main]]
